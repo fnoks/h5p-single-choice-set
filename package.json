@@ -4,7 +4,7 @@
   "description": "H5P Single Choice Set",
   "main": "index.js",
   "scripts": {
-    "test": "karma start -d"
+    "test": "karma start"
   },
   "repository": {
     "type": "git",
