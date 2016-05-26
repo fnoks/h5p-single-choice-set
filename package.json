@@ -1,0 +1,26 @@
+{
+  "name": "h5p-single-choice-set",
+  "version": "1.3.5",
+  "description": "H5P Single Choice Set",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h5p/h5p-single-choice-set.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h5p/h5p-single-choice-set/issues"
+  },
+  "homepage": "https://github.com/h5p/h5p-single-choice-set#readme",
+  "devDependencies": {
+    "h5p-view": "^1.0.2",
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  }
+}
