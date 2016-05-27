@@ -28,7 +28,6 @@ module.exports = function(config) {
       "scripts/single-choice-alternative.js",
       "scripts/single-choice.js",
       "scripts/single-choice-set.js",
-      "styles/*.css",
       "test/xapiValidator.js",
       "test/*Spec.js"
     ],
